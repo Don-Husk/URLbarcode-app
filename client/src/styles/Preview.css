@@ -1,0 +1,110 @@
+.preview-section {
+    background-color: white;
+    padding: 2rem;
+    max-width: 400px;
+    margin: 2rem auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Centers content horizontally */
+    text-align: center;
+}
+
+.preview-section img {
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 0.7rem 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 1rem;  /* Adds space between the QR code and button */
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+.preview-section {
+    background-color: white;
+    padding: 2rem;
+    max-width: 400px;
+    margin: 2rem auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Centers content horizontally */
+    text-align: center;
+}
+
+.preview-section img {
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Adds space between buttons */
+    flex-wrap: wrap; /* Allows wrapping if buttons are too long */
+    margin-top: 1rem;  /* Adds space between the QR code and buttons */
+}
+
+button {
+    background-color: #ff4d4f; /* Changed to red */
+    color: white;
+    padding: 0.7rem 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #d6333c; /* Darker red on hover */
+}
+.preview-section {
+    background-color: white;
+    padding: 2rem;
+    max-width: 400px;
+    margin: 2rem auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Centers content horizontally */
+    text-align: center;
+}
+
+.preview-section img {
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Adds space between buttons */
+    flex-wrap: wrap; /* Allows wrapping if buttons are too long */
+    margin-top: 1rem;  /* Adds space between the QR code and buttons */
+}
+
+button {
+    background-color: #ff4d4f; /* Changed to red */
+    color: white;
+    padding: 0.7rem 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #d6333c; /* Darker red on hover */
+}
